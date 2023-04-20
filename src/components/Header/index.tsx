@@ -19,7 +19,7 @@ export const Header = () => {
 }
 
 const styles = {
-    headerWrapper: "flex items-center justify-between border-b border-b-[#BE185D] px-5 py-3",
+    headerWrapper: "bg-white/40 fixed top-[4vh] w-[95%] mx-auto flex items-center justify-between border-b-4 border-b-[#BE185D] px-5 py-3 rounded-lg drop-shadow-3xl",
     logoWrapper: "cursor-pointer",
     logoText:"font-['Cedarville_Cursive'] text-5xl",
     searchWrapper: "",
